@@ -1,3 +1,5 @@
+import 'package:patterns/strategy/Strategy.dart';
+
 void main(List<String> arguments) {
-  print('Hello world!');
+  Strategy().run();
 }
