@@ -1,5 +1,5 @@
-import 'package:patterns/strategy/Strategy.dart';
+import 'package:patterns/observer/ObserverExample.dart';
 
 void main(List<String> arguments) {
-  Strategy().run();
+  ObserverExample().run();
 }

@@ -7,7 +7,7 @@ import 'package:patterns/strategy/User.dart';
   Use when you need a class to use 
   one of several behaviours dynamically
  */
-class Strategy {
+class StrategyExample {
   void run() {
     Person mark = User();
     Person john = Coder();
