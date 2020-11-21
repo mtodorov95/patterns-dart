@@ -1,5 +1,5 @@
-import 'package:patterns/observer/ObserverExample.dart';
+import 'package:patterns/factory/FactoryExample.dart';
 
 void main(List<String> arguments) {
-  ObserverExample().run();
+  FactoryExample().run();
 }
