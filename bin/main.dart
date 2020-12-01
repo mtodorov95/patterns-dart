@@ -1,5 +1,5 @@
-import 'package:patterns/abstract%20factory/AbstractFactoryExample.dart';
+import 'package:patterns/builder/BuilderExample.dart';
 
 void main(List<String> arguments) {
-  AbstractFactoryExample().run();
+  BuilderExample().run();
 }
