@@ -1,5 +1,5 @@
-import 'package:patterns/builder/BuilderExample.dart';
+import 'package:patterns/prototype/PrototypeExample.dart';
 
 void main(List<String> arguments) {
-  BuilderExample().run();
+  PrototypeExample().run();
 }
