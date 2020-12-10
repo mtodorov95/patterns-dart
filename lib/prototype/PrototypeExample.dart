@@ -13,7 +13,7 @@ class PrototypeExample {
     BMW cloneCar = carFactory.getClone(ogCar);
 
     print('OG hash is ${ogCar.hashCode}');
-    print('OG hash is ${cloneCar.hashCode}');
+    print('Clone hash is ${cloneCar.hashCode}');
 
     print(ogCar.cloneStatus);
     print(cloneCar.cloneStatus);
